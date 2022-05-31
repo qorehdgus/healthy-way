@@ -14,4 +14,5 @@
  * 오픈소스인 chart.js를 활용하여 ai training에서 넘어온 정보를 가시적으로 활용할 수 있도록 만듬
  * 회원정보 및 자신이 작성한 글목록, 및 좋아요 클릭한 레시피 정보를 표기
  * 발표 ppt 작성 
-  * 링크 https://docs.google.com/presentation/d/1tt4P2ifbDs8L0bgqVVy1w9Ej5oIGfDzVSygR3mpZpzI/edit#slide=id.g12d9ba98386_0_87
+   * [https://docs.google.com/presentation/d/1tt4P2ifbDs8L0bgqVVy1w9Ej5oIGfDzVSygR3mpZpzI/edit#slide=id.g12d9ba98386_0_87
+](https://docs.google.com/presentation/d/1tt4P2ifbDs8L0bgqVVy1w9Ej5oIGfDzVSygR3mpZpzI/edit?usp=sharing)
